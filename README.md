@@ -1,6 +1,6 @@
 ***************
 ![Checkmarx SAST Scan](https://github.com/MithileshPawar/BodgeIt/workflows/Checkmarx%20SAST%20Scan/badge.svg)
-
+***************************
 The BodgeIt Store is a vulnerable web application which is currently aimed at people who are new to pen testing.
 
 > ### Please note that The BodgeIt Store is no longer being worked on
